@@ -1,0 +1,18 @@
+# Node / Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Spring Boot (Maven)
+backend/target/
+
+# IDEs
+.idea/               # IntelliJ / Spring Tool Suite
+*.iml
+.vscode/             # Visual Studio Code
+
+# Logs y configuraciones
+*.log
+.env
+.DS_Store
+
