@@ -1,3 +1,3 @@
 [build]
 builder = "docker"
-compose_file = "docker-compose.yml"  # Ruta al archivo compose
+compose_file = "jobsenior/docker-compose.yml"  # Ruta al archivo compose
